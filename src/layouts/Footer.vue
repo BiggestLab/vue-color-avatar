@@ -6,11 +6,11 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://biggestlab.io"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        BiggestLab
       </a>
     </div>
 
