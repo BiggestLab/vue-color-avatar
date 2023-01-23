@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Vue Color Avatar</h1>
+  <h1>Biggest Lab Avatar Builder</h1>
 
   <p>🧑‍🦱 A playful avatar generator 🧑‍🦳</p>
 
